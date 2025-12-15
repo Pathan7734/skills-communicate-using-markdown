@@ -11,6 +11,10 @@
 
 # My name is Aalam Pathan
 
+## Following is the image of my cat
+
+![My cat](https://octodex.github.com/images/yaktocat.png)
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
